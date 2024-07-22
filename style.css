@@ -1,0 +1,18 @@
+header {
+    text-align: center;
+}
+.font {
+    font-family: Arial, sans-serif;
+}
+ul {
+    list-style: none;
+}
+footer {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+footer ul {
+    display: flex;
+    gap: 30px;
+}
